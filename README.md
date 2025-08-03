@@ -29,6 +29,8 @@ It also helps understand participation dynamics between genders and sports.
 - Python
 - Pandas
 - Matplotlib
+- SQL
+- Excel
 
 ## 🎯 Key Objectives
 
