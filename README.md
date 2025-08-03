@@ -31,6 +31,7 @@ It also helps understand participation dynamics between genders and sports.
 - Matplotlib
 - SQL
 - Excel
+- Power BI
 
 ## 🎯 Key Objectives
 
